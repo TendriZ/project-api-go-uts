@@ -1,5 +1,4 @@
 .env
-contoh/
 logs/
 .tmp/
 *.exe
